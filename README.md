@@ -1,1 +1,1 @@
-# curvas-el-pticas-em-software-estruturado
+# implementação de curvas elípticas em software estruturado
